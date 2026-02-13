@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm create:*)",
+      "Bash(npx sv@latest create todo-app --template minimal --types ts --no-add-ons)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
